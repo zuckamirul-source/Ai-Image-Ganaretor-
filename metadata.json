@@ -1,6 +1,6 @@
 {
-  "name": "AI SVG Generator",
-  "description": "Generate, edit, and export SVG graphics using AI and a live preview.",
+  "name": "AI SVG Vector Generator",
+  "description": "Generate high-quality SVG vector graphics using AI. Create up to 10 variations and download them as a ZIP.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
